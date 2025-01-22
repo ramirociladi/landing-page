@@ -164,3 +164,7 @@ nav {
   font-weight: bold;
   cursor: pointer;
 }
+
+.cta .sign-up {
+  border: 2px solid white;
+}
