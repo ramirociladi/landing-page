@@ -144,3 +144,8 @@ nav {
   justify-content: space-between;
   align-items: center;
 }
+
+.cta-content h3 {
+  color: #fff;
+  font-size: 24px;
+}
