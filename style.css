@@ -84,3 +84,9 @@ nav {
   color: #1f2937;
   margin-bottom: 3rem;
 }
+
+.info-cards {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
