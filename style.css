@@ -51,3 +51,9 @@ nav {
   color: #f9faf8;
   margin-bottom: 0.5rem;
 }
+
+.hero p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-bottom: 1rem;
+}
