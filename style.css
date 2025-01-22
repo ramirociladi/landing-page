@@ -13,3 +13,9 @@ header {
   background-color: #1f2937;
   padding: 1rem 15%;
 }
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
