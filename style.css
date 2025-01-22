@@ -102,3 +102,8 @@ nav {
   width: 200px;
   margin-bottom: 1rem;
 }
+
+.card p {
+  color: #1f2937;
+  font-size: 18px;
+}
