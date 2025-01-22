@@ -107,3 +107,8 @@ nav {
   color: #1f2937;
   font-size: 18px;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  padding: 7rem 15%;
+}
