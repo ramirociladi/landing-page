@@ -131,3 +131,7 @@ nav {
   font-size: 24px;
   margin-top: 1rem;
 }
+
+.cta {
+  padding: 5rem 15%;
+}
