@@ -25,3 +25,10 @@ nav {
   font-size: 24px;
   font-weight: bold;
 }
+
+.nav-links a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 2rem;
+}
