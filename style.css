@@ -32,3 +32,11 @@ nav {
   font-size: 18px;
   margin-left: 2rem;
 }
+
+.hero {
+  background-color: #1f2937;
+  padding: 7rem 15%;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
