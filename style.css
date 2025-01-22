@@ -112,3 +112,8 @@ nav {
   background-color: #e5e7eb;
   padding: 7rem 15%;
 }
+
+.quote-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
