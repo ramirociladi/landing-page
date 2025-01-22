@@ -124,3 +124,10 @@ nav {
   font-weight: 300;
   color: #1f2937;
 }
+
+.quote-author {
+  text-align: right;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 1rem;
+}
